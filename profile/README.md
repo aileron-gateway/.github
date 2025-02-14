@@ -2,7 +2,7 @@
 
 ![AILERON Gateway Logo](../logos/logo-light-aileron-gateway.svg)
 
-# Welcome to the AILERON Gateway Community :tada:
+# :tada: Welcome to the AILERON Gateway Community :tada:
 
 </div>
 

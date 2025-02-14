@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.356895mm"
+   height="13.222611mm"
+   viewBox="0 0 68.356895 13.222611"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="logo-light-aileron.svg"
+   inkscape:export-filename="logo-light-aileron.png"
+   inkscape:export-xdpi="380.49707"
+   inkscape:export-ydpi="380.49707"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.659624"
+     inkscape:cx="193.4625"
+     inkscape:cy="31.287367"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="5749"
+     inkscape:window-y="1584"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2244"
+       spacingx="1.3229167"
+       spacingy="1.3229167"
+       originx="-56.812669"
+       originy="-145.52413"
+       units="mm" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="68.356895"
+       height="13.222611"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26275">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.80000001"
+         id="stop26271" />
+      <stop
+         style="stop-color:#00196e;stop-opacity:1;"
+         offset="1"
+         id="stop26273" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient17908">
+      <stop
+         style="stop-color:#00196e;stop-opacity:1;"
+         offset="0"
+         id="stop17904" />
+      <stop
+         style="stop-color:#dc231e;stop-opacity:1;"
+         offset="0.59915614"
+         id="stop17906" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26275"
+       id="radialGradient1667-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0823864,0,0,1.0823863,98.927643,-12.307667)"
+       cx="-121.76502"
+       cy="109.09166"
+       fx="-121.76502"
+       fy="109.09166"
+       r="27.5"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17908"
+       id="linearGradient1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70293011,0.70293011,-0.70428271,0.70428271,27.358117,88.994664)"
+       x1="-122.9733"
+       y1="143.66483"
+       x2="-43.126656"
+       y2="143.66483" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17908"
+       id="linearGradient2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70293011,-0.70293011,-0.70428271,-0.70428271,27.358117,162.89805)"
+       x1="-122.9733"
+       y1="143.66483"
+       x2="-43.126656"
+       y2="143.66483" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(137.45235,-170.26736)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;line-height:0;font-family:Silom;-inkscape-font-specification:'Silom, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.5;stroke-dasharray:none"
+       x="-94.510963"
+       y="180.24434"
+       id="text1653-5"
+       inkscape:export-filename="text7473.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan1651-5"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00196e;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="-94.510963"
+         y="180.24434"
+         dx="0">AILERON</tspan></text>
+    <g
+       id="g1665-1"
+       transform="matrix(0.22211206,0,0,0.22211206,-122.36506,153.38549)"
+       style="display:inline">
+      <circle
+         style="mix-blend-mode:normal;fill:url(#radialGradient1667-0);fill-opacity:1;stroke:#00196e;stroke-width:1.98391;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1655-7"
+         cx="-32.869183"
+         cy="105.77164"
+         inkscape:export-filename="path5772.png"
+         inkscape:export-xdpi="73.720001"
+         inkscape:export-ydpi="73.720001"
+         r="28.77367" />
+      <g
+         id="g1663-1"
+         transform="translate(97.234383,-20.174708)">
+        <path
+           id="path1657-1"
+           style="display:inline;fill:url(#linearGradient1);fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m -118.16922,117.76532 a 39.687504,19.84375 45 0 0 -42.09493,-14.03164 39.687504,19.84375 45 0 0 -1.26577,19.3688 39.6875,19.84375 45 0 1 3.13666,-11.88525 39.6875,19.84375 45 0 1 42.09493,14.03164 39.6875,19.84375 45 0 1 15.3135,22.75904 39.687504,19.84375 45 0 0 -17.18439,-30.24259 z" />
+        <ellipse
+           style="display:inline;fill:#00196e;fill-opacity:1;stroke:none;stroke-width:0.0735473;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse1659-5"
+           cx="-163.17648"
+           cy="125.94636"
+           rx="1.9843755"
+           ry="3.3072896" />
+        <path
+           id="path1661-2"
+           style="display:inline;fill:url(#linearGradient2);fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m -118.16922,134.12739 a 19.84375,39.687504 45 0 1 -42.09493,14.03164 19.84375,39.687504 45 0 1 -1.26577,-19.3688 19.84375,39.6875 45 0 0 3.13666,11.88525 19.84375,39.6875 45 0 0 42.09493,-14.03164 19.84375,39.6875 45 0 0 15.3135,-22.75904 19.84375,39.687504 45 0 1 -17.18439,30.24259 z" />
+      </g>
+    </g>
+  </g>
+</svg>

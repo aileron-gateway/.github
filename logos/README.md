@@ -10,6 +10,13 @@ AILERON Gateway Trademarks are registered in Japan.
 - [JP-2023-094167](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-094167/40/en)
 - [JP-2023-094168](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-094168/40/en)
 
+
+## Brand colors
+
+AILERON Gateway uses 2 basic brand colors.
+
+![brand-colors.svg](brand-colors.svg)
+
 ## Icons
 
 **Light theme icon**.

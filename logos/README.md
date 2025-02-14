@@ -14,36 +14,26 @@ AILERON Gateway Trademarks are registered in Japan.
 
 **Light theme icon**.
 <div>
-<img src="icon-light.svg" style="width:25%; background-color:#fff; padding:1%;">
-<img src="icon-light.svg" style="width:25%; background-color:#aaa; padding:1%;">
+<img src="icon-light.svg" style="width:25%; padding:1%;">
 </div>
 
 **Dark theme icon**.
 <div>
-<img src="icon-dark.svg" style="width:25%; background-color:#aaa; padding:1%;">
-<img src="icon-dark.svg" style="width:25%; background-color:#000; padding:1%;">
+<img src="icon-dark.svg" style="width:25%; padding:1%;">
 </div>
 
 ## Logos
 
 **Light theme logos**.
 <div>
-<img src="logo-light-aileron.svg" style="width:30%; background-color:#fff; padding:1%;">
+<img src="logo-light-aileron.svg" style="width:30%; padding:1%;">
 </br>
-<img src="logo-light-aileron.svg" style="width:30%; background-color:#aaa; padding:1%;">
-</br>
-<img src="logo-light-aileron-gateway.svg" style="width:55%; background-color:#fff; padding:1%;">
-</br>
-<img src="logo-light-aileron-gateway.svg" style="width:55%; background-color:#aaa; padding:1%;">
+<img src="logo-light-aileron-gateway.svg" style="width:55%; padding:1%;">
 </div>
 
 **Dark theme logos**.
 <div>
-<img src="logo-dark-aileron.svg" style="width:30%; background-color:#aaa; padding:1%;">
+<img src="logo-dark-aileron.svg" style="width:30%; padding:1%;">
 </br>
-<img src="logo-dark-aileron.svg" style="width:30%; background-color:#000; padding:1%;">
-</br>
-<img src="logo-dark-aileron-gateway.svg" style="width:55%; background-color:#aaa; padding:1%;">
-</br>
-<img src="logo-dark-aileron-gateway.svg" style="width:55%; background-color:#000; padding:1%;">
+<img src="logo-dark-aileron-gateway.svg" style="width:55%; padding:1%;">
 </div>

@@ -7,7 +7,7 @@ SVG images under this directory are in [Inkscape](https://inkscape.org/) SVG for
 
 SVG and PNG images are available at [./organization/](./organization/).
 
-<div style="background:#eee;">
+<div>
 <img src="organization/qr-organization-rounded.svg" width="20%" style="margin:1%;">
 <img src="organization/qr-organization-rounded-logo.svg" width="20%" style="margin:1%;">
 <img src="organization/qr-organization-rounded-navy.svg" width="20%" style="margin:1%;">
@@ -23,7 +23,7 @@ SVG and PNG images are available at [./organization/](./organization/).
 
 SVG and PNG images are available at [./repository/](./repository/).
 
-<div style="background:#eee;">
+<div>
 <img src="repository/qr-repository-rounded.svg" width="20%" style="margin:1%;">
 <img src="repository/qr-repository-rounded-logo.svg" width="20%" style="margin:1%;">
 <img src="repository/qr-repository-rounded-navy.svg" width="20%" style="margin:1%;">
@@ -39,7 +39,7 @@ SVG and PNG images are available at [./repository/](./repository/).
 
 SVG and PNG images are available at [./website/](./website/).
 
-<div style="background:#eee;">
+<div>
 <img src="website/qr-website-rounded.svg" width="20%" style="margin:1%;">
 <img src="website/qr-website-rounded-logo.svg" width="20%" style="margin:1%;">
 <img src="website/qr-website-rounded-navy.svg" width="20%" style="margin:1%;">

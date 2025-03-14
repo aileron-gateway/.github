@@ -1,0 +1,10 @@
+# Handle line endings automatically for text files.
+* text=auto
+
+# Specify file types and line endings.
+*.gitattributes text eol=lf
+.gitignore      text eol=lf
+
+# Exclude files from exporting.
+*.gitattributes export-ignore
+.gitignore      export-ignore

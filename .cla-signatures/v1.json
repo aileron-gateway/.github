@@ -1,3 +1,20 @@
 {
-  "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "t-katsumura",
+      "id": 83070078,
+      "comment_id": 2755928460,
+      "created_at": "2025-03-26T23:00:33Z",
+      "repoId": 897110641,
+      "pullRequestNo": 49
+    },
+    {
+      "name": "t-katsumura",
+      "id": 83070078,
+      "comment_id": 2755935877,
+      "created_at": "2025-03-26T23:02:58Z",
+      "repoId": 897110641,
+      "pullRequestNo": 49
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 # Logos and Icons
 
-AILERON Gateway logo sets.
-SVG images under this directory are in [Inkscape](https://inkscape.org/) SVG formats.
+AILERON Gateway logos and icons.
+
+SVG images are in [Inkscape svg](https://inkscape.org/) formats.
 
 ## Trademarks
 
@@ -9,7 +10,6 @@ AILERON Gateway Trademarks are registered in Japan.
 
 - [JP-2023-094167](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-094167/40/en)
 - [JP-2023-094168](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-094168/40/en)
-
 
 ## Brand colors
 

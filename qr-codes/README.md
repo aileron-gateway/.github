@@ -1,7 +1,8 @@
 # QR Codes
 
-QR Codes created with [Adobe Express](https://www.adobe.com/express/feature/image/qr-code-generator).
-SVG images under this directory are in [Inkscape](https://inkscape.org/) SVG formats.
+QR Codes are created with [Adobe Express](https://www.adobe.com/express/feature/image/qr-code-generator).
+
+SVG images are in [Inkscape svg](https://inkscape.org/) formats.
 
 ## QR for `https://github.com/aileron-gateway`
 

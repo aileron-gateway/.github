@@ -9,6 +9,10 @@
 > [!NOTE]
 > **AILERON Gateway — secure, high-performance API Gateway for cloud-native enterprise systems.**
 
+AILERON Gateway leverages [Go](https://go.dev/).
+
+![aileron-loves-go.svg](./aileron-loves-go.svg)
+
 ## Documentations
 
 - [Website](https://aileron-gateway.github.io/)

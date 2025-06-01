@@ -16,7 +16,6 @@ AILERON Gateway leverages [Go](https://go.dev/).
 ## Documentations
 
 - [Website](https://aileron-gateway.github.io/)
-- [Design Docs](https://github.com/aileron-gateway/aileron-gateway/tree/main/docs)
 - [Go Docs](https://pkg.go.dev/github.com/aileron-gateway/aileron-gateway)
 
 ## Repositories
@@ -60,3 +59,15 @@ style Documentation fill:transparent,stroke:none
 style GoProjects fill:transparent,stroke:none
 style Examples fill:transparent,stroke:none
 ```
+
+## Integration
+
+We integrate the following products and specifications.
+
+<p align="center" float="left">
+  <img src="openid.png" height="100" style="padding: 20px" />
+  <img src="oauth_logo.svg" height="100" style="padding: 20px" />
+  </br>
+  <img src="opa.svg" height="100" style="padding: 20px" /> 
+  <img src="otel.svg" height="100" style="padding: 20px" /> 
+</p>

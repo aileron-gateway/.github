@@ -65,9 +65,9 @@ style Examples fill:transparent,stroke:none
 We integrate the following products and specifications.
 
 <p align="center" float="left">
-  <img src="openid.png" height="100" style="padding: 20px" />
-  <img src="oauth_logo.svg" height="100" style="padding: 20px" />
+  <img src="openid.png" height="100" hspace="30"/>
+  <img src="oauth_logo.svg" height="100" hspace="30"/>
   </br>
-  <img src="opa.svg" height="100" style="padding: 20px" /> 
-  <img src="otel.svg" height="100" style="padding: 20px" /> 
+  <img src="opa.svg" height="100" hspace="30"/> 
+  <img src="otel.svg" height="100" hspace="30"/> 
 </p>

@@ -4,11 +4,9 @@
 
 # :tada: Welcome to the AILERON Gateway Community :tada:
 
-</div>
+**AILERON Gateway — secure, high-performance API Gateway for cloud-native enterprise systems.**
 
-<h1>
-AILERON Gateway — secure, high-performance API Gateway for cloud-native enterprise systems.
-</h1>
+</div>
 
 ## Short Links
 
@@ -18,12 +16,12 @@ AILERON Gateway — secure, high-performance API Gateway for cloud-native enterp
 
 ## Repositories
 
-| Repository | Content |
-| - | - |
-| [aileron-gateway](https://github.com/aileron-gateway/aileron-gateway) | Main development repository. |
-| [aileron-gateway.github.io](https://github.com/aileron-gateway/aileron-gateway.github.io) | Website repository. |
-| [example-extension](https://github.com/aileron-gateway/example-extension) | Example to extend the gateway as a go library. |
-| [.github](https://github.com/aileron-gateway/.github) | Organization profiles. |
+| Repository                                                                                | Content                                        |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [aileron-gateway](https://github.com/aileron-gateway/aileron-gateway)                     | Main development repository.                   |
+| [aileron-gateway.github.io](https://github.com/aileron-gateway/aileron-gateway.github.io) | Website repository.                            |
+| [example-extension](https://github.com/aileron-gateway/example-extension)                 | Example to extend the gateway as a go library. |
+| [.github](https://github.com/aileron-gateway/.github)                                     | Organization profiles.                         |
 
 
 ## Integration

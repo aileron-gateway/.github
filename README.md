@@ -8,9 +8,7 @@ Following files are applied as default for all public repositories.
 - [SECURITY.md](SECURITY.md)
 - [SUPPORT.md](SUPPORT.md)
 
-Following files are reusable workflows.
-
-- [.github/workflows/*_reusable.yaml](.github/workflows/)
+[CLA.md](CLA.md) is our client license agreement.
 
 ## Organization profile
 

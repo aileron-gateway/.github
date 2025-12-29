@@ -5,15 +5,8 @@
 Following files are applied as default for all public repositories.
 
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-- [FUNDING.yml](FUNDING.yml)
 - [SECURITY.md](SECURITY.md)
 - [SUPPORT.md](SUPPORT.md)
-- [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md)
-
-Following files should go in the each repository.
-
-- CONTRIBUTING.md
-- [ISSUE_TEMPLATE/*.yaml](ISSUE_TEMPLATE/): Copy files to the repository if necessary.
 
 Following files are reusable workflows.
 

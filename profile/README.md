@@ -2,8 +2,6 @@
 
 ![AILERON Gateway Logo](../logos/logo-light-aileron-gateway.svg)
 
-# :tada: Welcome to the AILERON Gateway Community :tada:
-
 **AILERON Gateway — secure, high-performance API Gateway for cloud-native enterprise systems.**
 
 </div>
